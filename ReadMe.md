@@ -6,7 +6,7 @@ The source code contains both the **original** version and the **improved** vers
 <br>
 <br>
 **Reference**: *Face Recognition by Elastic Bunch Graph Matching*<br>
-**Demo**: [demo.mp4](/demo.mp4)
+**Demo**: [demo.mp4](https://github.com/liuqx0717/EBGM/raw/master/demo.mp4)
 <br><br>
 
 ## Features
